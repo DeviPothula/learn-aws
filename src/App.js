@@ -1,10 +1,9 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
   return <div className="App">
-    <h1>I am deploying my first react app to EC2 linux instance</h1>
-    <p>Hi devi</p>
+    <h1>I am Deploying My First React-App to EC2 Instance</h1>
+    <p>Hi Devi!!</p>
   </div>;
 }
 
