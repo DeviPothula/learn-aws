@@ -1,5 +1,5 @@
 # Base Image for the Frontend React.js Application Docker image
-FROM node:18-alpine
+FROM public.ecr.aws/y5j6b2p1/node/node:latest
 # The working directory (folder) for the Frontend React.js Application container
 WORKDIR /app
 # Copying the dependencies files for the Frontend React.js Application folder
