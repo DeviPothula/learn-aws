@@ -6,6 +6,7 @@ function App() {
     <p>Hi Devi!!</p>
     <h3>Here I am Using AWS Code Build and Code Pipeline</h3>
     <h4>Code build added to code pipeline....</h4>
+    <h5>Code-Deploy stage added to code-pipeline</h5>
   </div>;
 }
 
